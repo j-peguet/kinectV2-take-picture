@@ -46,15 +46,16 @@ Nb: Each picture will be taken with an interval of 1 second.
 
 ## 📂 File location
 
-All photos will be saved in your folder <code>Pictures\Kinect\</code>
+All photos will be saved in your folder ```Pictures\Kinect\```
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/j-peguet/kinectV2-Take-Picture/issues) if you want to contribute.<br />
-[Check the contributing guide](./CONTRIBUTING.md).<br />
+Contributions, issues and feature requests are welcome.
+
+Feel free to check [issues page](https://github.com/j-peguet/kinectV2-Take-Picture/issues) if you want to contribute.
 
 ## 📝 License
 
-Copyright © 2021 [Jules Peguet](https://github.com/j-peguet).<br />
+Copyright © 2021 [Jules Peguet](https://github.com/j-peguet).
+
 This project is [MIT](https://github.com/j-peguet/kinectV2-Take-Picture/blob/master/LICENSE) licensed.
