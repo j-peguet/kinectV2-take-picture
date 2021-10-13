@@ -13,14 +13,14 @@
 > Take pictures with your microsoft Kinect V2 Sensor.
 
 ## ⚙️ Prerequisites
-<hr>
+
 To run the application, it is necessary to have the Kinect SDK installed.
 
 Download link available here:
 https://www.microsoft.com/en-us/download/details.aspx?id=44561
 
 ## 📦 Build
-<hr>
+
 To build our own .exe app:
 
 * Download the repo dans open it in Visual Studio.
@@ -31,7 +31,6 @@ To build our own .exe app:
 The file <code>KinectV2-Take-Picture.exe</code> is in <code>bin/Release/</code> directory.
 
 ## 🚀 Usage
-<hr>
 
 You can simply launch application, and the Kinect will take one picture.
 ```
@@ -46,18 +45,16 @@ To take several photos, simply set the number of photos you wish to take.
 Nb: Each picture will be taken with an interval of 1 second.
 
 ## 📂 File location
-<hr>
+
 All photos will be saved in your folder <code>Pictures\Kinect\</code>
 
 ## 🤝 Contributing
-<hr>
 
 Contributions, issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/j-peguet/kinectV2-Take-Picture/issues) if you want to contribute.<br />
 [Check the contributing guide](./CONTRIBUTING.md).<br />
 
 ## 📝 License
-<hr>
 
 Copyright © 2021 [Jules Peguet](https://github.com/j-peguet).<br />
 This project is [MIT](https://github.com/j-peguet/kinectV2-Take-Picture/blob/master/LICENSE) licensed.
