@@ -23,7 +23,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=44561
 
 To build our own .exe app:
 
-* Download the repo dans open it in Visual Studio.
+* Download the repo and open it in Visual Studio.
 * Switch to <code>Release</code> configuration
 * Press <code>F5</code> to build the project
 * Create of folder named <code>Kinect</code> in your default Pictures folder
@@ -47,6 +47,14 @@ Nb: Each picture will be taken with an interval of 1 second.
 ## 📂 File location
 
 All photos will be saved in your folder ```Pictures\Kinect\```
+
+## 🔧 Compatibility
+| OS       |  Compatibility |
+| -        |      :-:       |
+| Windows  | ✔️             |
+| Linux    | ❌             |
+| MacOS    | ❌             |
+
 
 ## 🤝 Contributing
 
